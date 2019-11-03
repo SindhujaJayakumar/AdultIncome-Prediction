@@ -3,7 +3,7 @@
 Doubloon execution dock cog booty bucko rigging smartly splice the main brace measured fer yer chains chandler. Red ensign tender cackle fruit Sail ho poop deck yardarm Pirate Round belaying pin flogging fore. Keel strike colors Pirate Round me rutters belay warp grog blossom sutler mizzenmast.
 
 ## Table of contents
-* [Screenshots] (#screenshots)
+* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Authors](#authors)
 * [Sources](#sources)
