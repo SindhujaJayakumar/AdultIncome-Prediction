@@ -9,7 +9,7 @@ Doubloon execution dock cog booty bucko rigging smartly splice the main brace me
 * [Sources](#sources)
 
 ## Screenshots
-# Example screenshot
+* Example screenshot
 # ![Final_Project_US-Income](Resources/ipsum1.jpg)
 	
 ## Technologies
