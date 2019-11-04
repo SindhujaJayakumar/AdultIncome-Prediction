@@ -1,12 +1,25 @@
-# Using Machine Learning to Predict Income
+                           Analysis and Prediction of Adult Income In US
+                             Based on Census Data Using Machine Learing  
+                                  
+                                  Overview
+Project Description:
 
-Doubloon execution dock cog booty bucko rigging smartly splice the main brace measured fer yer chains chandler. Red ensign tender cackle fruit Sail ho poop deck yardarm Pirate Round belaying pin flogging fore. Keel strike colors Pirate Round me rutters belay warp grog blossom sutler mizzenmast.
+This machine learning project uses the annual income data set from UCI Machine Learning
+Repository,based on the US census to predict annual money incomes for
+adults, given a set of 41 employment and demographic attributes.
+Census money income is defined as income received on a regular basis (exclusive of certain
+money receipts such as capital gains) before payments for personal income taxes, social
+security, union dues, Medicare deductions, etThe income levels were binned into two classes
+– more than $50,000 and less than or equal to $50,000 (annually) in the dataset, and therefore, the analysis and modeling was based on this classification of incomes.
+The project used machine learning ,modelling, and Tableau 10.0 for visualization.
+
 
 ## Table of contents
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Authors](#authors)
 * [Sources](#sources)
+* [Summary](#summary)
 
 ## Screenshots
 * Example screenshot
@@ -28,4 +41,15 @@ Project is created with:
 * Ebony Postrell
 
 ## Sources
-Nipperkin spanker Cat o'nine tails landlubber or just lubber chase guns run a rig keelhaul hogshead belaying pin bucko. Doubloon booty pressgang coxswain chandler careen yawl Sink me no prey, no pay keel.
+UCI Machine Learning Repository, Lichman, M. (2013). Irvine, CA: University of California,
+School of Information and Computer Science accessed November 6th, 2016 from
+https://archive.ics.uci.edu/ml/datasets/Census+Income
+United States Census Bureau, (accessed January 25, 2017), available from
+http://www.census.gov/topics/income-poverty/income/about.html s
+
+
+##Conclusion
+This machine learning model was able to predict annual incomes of persons in US based on
+20 parameters with an accuracy of ----- This model can be applied to data from other census
+years as well. The model will perform better if the training set is updated with new data that
+is confirmed for correctness, that is, the label value is the real life value, and not the predicted value. The model can continuously learn from changing data in the training set to adapt to new parameters, thus improving its accuracy and other metrics.
