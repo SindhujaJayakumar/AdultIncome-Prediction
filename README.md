@@ -17,7 +17,7 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 * [Technologies](#technologies)
 * [Authors](#authors)
 * [Sources](#sources)
-* [Summary](#summary)
+
 
 ## Screenshots
 * Example screenshot
@@ -46,7 +46,7 @@ United States Census Bureau, (accessed January 25, 2017), available from
 http://www.census.gov/topics/income-poverty/income/about.html s
 
 
-##summary
+Conclusion
 This machine learning model was able to predict annual incomes of persons in US based on
 20 parameters with an accuracy of ----- This model can be applied to data from other census
 years as well. The model will perform better if the training set is updated with new data that
