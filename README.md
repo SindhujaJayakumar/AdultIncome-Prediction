@@ -1,17 +1,15 @@
-                           Analysis and Prediction of Adult Income In US
-                             Based on Census Data Using Machine Learing  
+﻿Analysis and Prediction of Adult Income In US
+Based on Census Data Using Machine Learning  
                                   
-                                  Overview
+Overview:
 Project Description:
 
 This machine learning project uses the annual income data set from UCI Machine Learning
-Repository,based on the US census to predict annual money incomes for
+Repository, based on the US census to predict annual money incomes for
 adults, given a set of 41 employment and demographic attributes.
 Census money income is defined as income received on a regular basis (exclusive of certain
-money receipts such as capital gains) before payments for personal income taxes, social
-security, union dues, Medicare deductions, etThe income levels were binned into two classes
-– more than $50,000 and less than or equal to $50,000 (annually) in the dataset, and therefore, the analysis and modeling was based on this classification of incomes.
-The project used machine learning ,modelling, and Tableau 10.0 for visualization.
+money receipts such as capital gains) before payments for personal income taxes, social security, union dues, Medicare deductions, either income levels were binned into two classes more than $50,000 and less than or equal to $50,000 (annually) in the dataset, and therefore, the analysis and modeling was based on this classification of incomes.
+The project used machine learning, modelling, and Tableau 10.0 for visualization.
 
 
 ## Table of contents
@@ -23,7 +21,7 @@ The project used machine learning ,modelling, and Tableau 10.0 for visualization
 
 ## Screenshots
 * Example screenshot
-# ![Final_Project_US-Income](Resources/ipsum1.jpg)
+#![Final_Project_US-Income](Resources/ipsum1.jpg)
 	
 ## Technologies
 Project is created with:
@@ -34,7 +32,7 @@ Project is created with:
 
 ## Authors
 * Naveen Mudaliar
-* Sindhu Kumar
+* Sindhuja Kumar
 * Nisa Bukhari
 * Syed Rashid
 * Jin Joo
@@ -52,4 +50,5 @@ http://www.census.gov/topics/income-poverty/income/about.html s
 This machine learning model was able to predict annual incomes of persons in US based on
 20 parameters with an accuracy of ----- This model can be applied to data from other census
 years as well. The model will perform better if the training set is updated with new data that
-is confirmed for correctness, that is, the label value is the real life value, and not the predicted value. The model can continuously learn from changing data in the training set to adapt to new parameters, thus improving its accuracy and other metrics.
+is confirmed for correctness, that is, the label value is the real-life value, and not the predicted value. The model can continuously learn from changing data in the training set to adapt to new parameters, thus improving its accuracy and other metrics.
+
