@@ -46,7 +46,7 @@ United States Census Bureau, (accessed January 25, 2017), available from
 http://www.census.gov/topics/income-poverty/income/about.html s
 
 
-##Conclusion
+##summary
 This machine learning model was able to predict annual incomes of persons in US based on
 20 parameters with an accuracy of ----- This model can be applied to data from other census
 years as well. The model will perform better if the training set is updated with new data that
