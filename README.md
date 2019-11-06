@@ -1,5 +1,4 @@
-﻿# Analysis and Prediction of Adult Income In US 
-Based on Census Data Using Machine Learning
+﻿# Analysis and Prediction of Adult Income In US Based on Census Data Using Machine Learning
 This machine learning project uses the annual income data set from UCI Machine Learning
 Repository, based on the US census to predict annual money incomes for
 adults, given a set of 41 employment and demographic attributes.
@@ -12,7 +11,7 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Authors](#authors)
-* [Sources](#sources)
+* [Sources](#sources)* [Conclusion](#conclusion)
 
 
 ## Screenshots
@@ -39,7 +38,7 @@ UCI Machine Learning Repository, Lichman, M. (2013). Irvine, CA: University of C
 School of Information and Computer Science accessed November 6th, 2016 from
 https://archive.ics.uci.edu/ml/datasets/Census+Income
 United States Census Bureau, (accessed January 25, 2017), available from
-http://www.census.gov/topics/income-poverty/income/about.html s
+http://www.census.gov/topics/income-poverty/income/about.html ##
 
 
 Conclusion
