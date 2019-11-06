@@ -11,7 +11,8 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Authors](#authors)
-* [Sources](#sources)* [Conclusion](#conclusion)
+* [Sources](#sources)
+*[Conclusion](#conclusion)
 
 
 ## Screenshots
@@ -38,10 +39,8 @@ UCI Machine Learning Repository, Lichman, M. (2013). Irvine, CA: University of C
 School of Information and Computer Science accessed November 6th, 2016 from
 https://archive.ics.uci.edu/ml/datasets/Census+Income
 United States Census Bureau, (accessed January 25, 2017), available from
-http://www.census.gov/topics/income-poverty/income/about.html ##
-
-
-Conclusion
+http://www.census.gov/topics/income-poverty/income/about.html
+## Conclusion
 This machine learning model was able to predict annual incomes of persons in US based on
 20 parameters with an accuracy of ----- This model can be applied to data from other census
 years as well. The model will perform better if the training set is updated with new data that
