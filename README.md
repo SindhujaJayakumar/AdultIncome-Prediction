@@ -12,7 +12,7 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 * [Technologies](#technologies)
 * [Authors](#authors)
 * [Sources](#sources)
-*[Conclusion](#conclusion)
+* [Conclusion](#conclusion)
 
 
 ## Screenshots
