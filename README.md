@@ -44,7 +44,7 @@ School of Information and Computer Science accessed November 6th, 2016 from
 https://archive.ics.uci.edu/ml/datasets/Census+Income
 United States Census Bureau, (accessed January 25, 2017), available from
 
-http://www.census.gov/topics/income-poverty/income/about.html s
+http://www.census.gov/topics/income-poverty/income/about.html 
 
 
 ## Conclusion
