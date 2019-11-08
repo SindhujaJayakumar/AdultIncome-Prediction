@@ -20,7 +20,7 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 
 ## Screenshots
 
-#![Final_Project_US-Income](Resources/machine-learning-income prediction.jpg)
+#![Project-on-US-Adult-Income-Prediction](Resources/machine-learning-income prediction.jpg)
 	
 ## Technologies
 Project is created with:
