@@ -40,14 +40,16 @@ Project is created with:
 ## Sources
 UCI Machine Learning Repository, Lichman, M. (2013). Irvine, CA: University of California,
 School of Information and Computer Science accessed November 6th, 2016 from
+
 https://archive.ics.uci.edu/ml/datasets/Census+Income
 United States Census Bureau, (accessed January 25, 2017), available from
+
 http://www.census.gov/topics/income-poverty/income/about.html s
 
 
-Conclusion
+## Conclusion
 This machine learning model was able to predict annual incomes of persons in US based on
-20 parameters with an accuracy of ----- This model can be applied to data from other census
+20 parameters with an accuracy of 82. This model can be applied to data from other census
 years as well. The model will perform better if the training set is updated with new data that
 is confirmed for correctness, that is, the label value is the real-life value, and not the predicted value. The model can continuously learn from changing data in the training set to adapt to new parameters, thus improving its accuracy and other metrics.
 
