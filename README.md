@@ -20,7 +20,7 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 
 ## Screenshots
 * Example screenshot
-#![Final_Project_US-Income](Resources/ipsum1.jpg)
+#![Final_Project_US-Income](Resources/machine-learning-income prediction.jpg)
 	
 ## Technologies
 Project is created with:
