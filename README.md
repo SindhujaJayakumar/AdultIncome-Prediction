@@ -1,8 +1,7 @@
-﻿Analysis and Prediction of Adult Income In US
-Based on Census Data Using Machine Learning  
+## Analysis and Prediction of Adult Income In US Based on Census Data Using Machine Learning  
                                   
-Overview:
-Project Description:
+### Overview:
+### Project Description:
 
 This machine learning project uses the annual income data set from UCI Machine Learning
 Repository, based on the US census to predict annual money incomes for
