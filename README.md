@@ -18,9 +18,7 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 * [Sources](#sources)
 
 
-## Screenshots
-
-![Project-on-US-Adult-Income-Prediction](https://github.com/SindhujaJayakumar/Project-on-US-Adult-Income-Prediction/blob/master/Resources/machine-learning-income%20prediction.jpg)
+## Screenshots![Income_Age.jpg](Resources/Income_Age.jpg)
 	
 ## Technologies
 Project is created with:
