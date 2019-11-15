@@ -18,7 +18,7 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 * [Sources](#sources)
 
 
-## Screenshots![Income_Age.jpg](Resources/Income_Age.jpg) ![AUC.png](Resources/AUC.png)
+## Screenshots![Income_Age.jpg](Resources/Income_Age.jpg) ![tree.png](Resources/tree.png) ![AUC.png](Resources/AUC.png)
 	
 ## Technologies
 Project is created with:
