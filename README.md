@@ -1,4 +1,4 @@
-## Analysis and Prediction of Adult Income In US Based on Census Data Using Machine Learning
+## Analysis and Prediction of Adult Income In US Based on Census  Income Data Using Machine Learning
 
 ### Project Description:
                             
